@@ -5,4 +5,4 @@ center: true
 ---
 #### No arg Here! Embrace your lord Harry Styles
 
-<p style="color:blue;font-size:46px;">I'm a big, blue, <strong>strong</strong> paragraph</p>
+<p style="color:white;font-size:46px;">Great you found me! Sign up for the contest at:</p>
