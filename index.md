@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: Sorry No Arg!
 center: true
 ---
-#### hi
+#### No arg Here! Embrace your lord Harry Styles
