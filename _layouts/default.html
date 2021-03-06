@@ -2,21 +2,6 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
     <meta name="description" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.title }}" />
-    <script src="https://www.gstatic.com/firebasejs/8.2.10/firebase-app.js"></script>
-    <script>
-        // Your web app's Firebase configuration
-        var firebaseConfig = {
-            apiKey: "AIzaSyD0s3xULP3cHevQZHIYb0Od4xlm0NCw4aU",
-            authDomain: "easter-eggs-ywyojn.firebaseapp.com",
-            databaseURL: "https://easter-eggs-ywyojn.firebaseio.com",
-            projectId: "easter-eggs-ywyojn",
-            storageBucket: "easter-eggs-ywyojn.appspot.com",
-            messagingSenderId: "802993691499",
-            appId: "1:802993691499:web:d2b1280b9b460780e0ca2e"
-        };
-        // Initialize Firebase
-        firebase.initializeApp(firebaseConfig);
-    </script>
     <style>
         .content {
             {% if page.center == true %}
