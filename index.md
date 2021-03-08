@@ -1,4 +1,8 @@
-# CountDown to Alyxia CTF
+---
+layout: default
+center: true
+title: Coundown to Alyxia CTF
+---
 
 <p id="demo"></p>
 
