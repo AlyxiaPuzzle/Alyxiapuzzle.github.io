@@ -4,7 +4,7 @@ center: true
 title: Coundown to Alyxia CTF
 ---
 
-<p id="demo"></p>
+<h3 id="demo"></h3>
 
 <script>
 var countDownDate = new Date("Mar 22, 2021 13:00:00").getTime();
