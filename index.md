@@ -6,6 +6,7 @@ title: Coundown to Alyxia CTF
 
 <h3 id="demo"></h3>
 
+
 <script>
 var countDownDate = new Date("Mar 22, 2021 13:00:00").getTime();
 
@@ -25,7 +26,7 @@ var x = setInterval(function() {
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "Alyxia CTF Will Start Soon. Please refresh the page to get access. Also join our discord:";
+    document.getElementById("demo").innerHTML = "Alyxia CTF Will Start Soon. Please refresh the page to get access. Also join our discord";
   }
 }, 1000);
 </script>
