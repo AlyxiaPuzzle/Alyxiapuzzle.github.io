@@ -29,3 +29,7 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
+<footer>
+  <p>Author: Alyxia Contributors</p>
+  <p><a href="mailto:alyxiacontest@gmail.com">AlyxiaContest@gmail.com</a></p>
+</footer>
