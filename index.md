@@ -3,7 +3,7 @@ layout: default
 center: true
 ---
 ![banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v9n347ozi23rutgapotd.jpeg)
-<h2 id="demo"></h3>
+<h2 id="demo"></h2>
 
 
 <script>
