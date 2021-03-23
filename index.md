@@ -29,7 +29,7 @@ var x = setInterval(function() {
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "Alyxia CTF Will Start Soon. Please refresh the page to get access. Also join our discord";
+    document.getElementById("demo").innerHTML = "Alyxia has started! Go to <a>https://alyxiapuzzle.github.io/docs</a> to get started";
   }
 }, 1000);
 </script>
