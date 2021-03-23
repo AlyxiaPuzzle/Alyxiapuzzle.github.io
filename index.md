@@ -3,7 +3,7 @@ layout: default
 center: true
 ---
 
-![banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v9n347ozi23rutgapotd.jpeg)
+![banner](https://cdn.discordapp.com/attachments/823505640558952448/823507827465256990/Alyxia.jpg)
 ---
 ##### Alyxia Starts on March 22
 
@@ -11,7 +11,7 @@ center: true
 
 
 <script>
-var countDownDate = new Date("Mar 22, 2021 13:00:00").getTime();
+var countDownDate = new Date("Mar 23, 2021 13:00:00").getTime();
 
 var x = setInterval(function() {
 
